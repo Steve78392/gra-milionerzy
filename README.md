@@ -4,7 +4,7 @@
 Ta gra jest wzorowana na teleturnieju "Milionerzy". Gracz odpowiada na pytania z czterema możliwymi odpowiedziami, przy czym tylko jedna z nich jest poprawna. Celem jest zdobycie jak największej ilości kwoty.
 
 ## Wymagania
-- Python 3.10+ (we wcześniejszych 
+- Python 3.10+
 - Biblioteka g4f (gpt4free)
 
 ## Instalacja
